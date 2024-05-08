@@ -1,0 +1,10 @@
+Z:\Programmesana\Gridas_aprekins\Gridas_aprekins\bin\Debug\Gridas_aprekins.exe.config
+Z:\Programmesana\Gridas_aprekins\Gridas_aprekins\bin\Debug\Gridas_aprekins.exe
+Z:\Programmesana\Gridas_aprekins\Gridas_aprekins\bin\Debug\Gridas_aprekins.pdb
+Z:\Programmesana\Gridas_aprekins\Gridas_aprekins\obj\Debug\Gridas_aprekins.csprojAssemblyReference.cache
+Z:\Programmesana\Gridas_aprekins\Gridas_aprekins\obj\Debug\Gridas_aprekins.Form1.resources
+Z:\Programmesana\Gridas_aprekins\Gridas_aprekins\obj\Debug\Gridas_aprekins.Properties.Resources.resources
+Z:\Programmesana\Gridas_aprekins\Gridas_aprekins\obj\Debug\Gridas_aprekins.csproj.GenerateResource.cache
+Z:\Programmesana\Gridas_aprekins\Gridas_aprekins\obj\Debug\Gridas_aprekins.csproj.CoreCompileInputs.cache
+Z:\Programmesana\Gridas_aprekins\Gridas_aprekins\obj\Debug\Gridas_aprekins.exe
+Z:\Programmesana\Gridas_aprekins\Gridas_aprekins\obj\Debug\Gridas_aprekins.pdb

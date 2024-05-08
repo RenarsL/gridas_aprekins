@@ -16,5 +16,40 @@ namespace Gridas_aprekins
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox5_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            double telpasg = Convert.ToDouble(TelpasG.Text);
+            double telpasp = Convert.ToDouble(TelpasP.Text);
+            double laukums = telpasg * telpasp;
+            textBox5.Text = Convert.ToString(laukums + comboBox1.Text);
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            double telpasg = Convert.ToDouble(TelpasG.Text);
+            double telpasp = Convert.ToDouble(TelpasP.Text);
+            double laukums = telpasg * telpasp;
+            double Mcena = Convert.ToDouble(Cena.Text);
+            double izmaksas = laukums * Mcena;
+            textBox6.Text = Convert.ToString(izmaksas + " €");
+
+            
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
